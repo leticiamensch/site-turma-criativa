@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+    .cabeçalho{
+    background-color: rgb(4, 255, 37);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
+    }
+    .cabeçalho-imagem {
+    width: 20%;
+    }
+    
+    .cabeçalho-lista-item{
+    display: inline-block;
+    margin: 16px;
+    font-size: 16px;
+    }
+    
+    
+    
+    
+    header{
+    background-color:rgb(0, 53, 167);
+    color: rgb(255, 255, 255);
+    }
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+color:white;
+display:flex;
+justify-content: center;
+align-intems: center;
+padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width:35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+.estudante{
+    padding:24px 0;
+}
+
+.estudante
